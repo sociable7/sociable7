@@ -2,11 +2,13 @@
 
 💻 Website Back End Developer | 🌍 Persian living in New Zealand  
 
+---
 
 ## 🎓 Background  
 I hold a **Master’s degree in Software Engineering** with a focus on **Deep Learning**.  
 During my research, I developed a **deep learning engine for analyzing financial markets** — including **Forex and Stock Market prediction**.  
 
+---
 
 ## About Me  
 I’m passionate about combining **backend web development** with **AI-driven solutions**.  
@@ -15,11 +17,13 @@ I’m passionate about combining **backend web development** with **AI-driven so
 - 💡 Interested in automation, intelligent systems, and financial technologies  
 - 🤝 Open to collaboration in **backend development**,**Integration && Automation**, **AI**, and **fintech projects**  
 
+---
 
 ## 🔗 Connect With Me  
 - 🌐 Our Company / Website (https://tensorpage.com)  
 - 💼 LinkedIn (https://www.linkedin.com/in/mary-kiani) 
 
+---
 
 ## 🛠️ Tech Stack  
 **Web Development**  
