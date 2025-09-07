@@ -15,7 +15,7 @@ I’m passionate about combining **backend web development** with **AI-driven so
 - 🔧 Building efficient and secure backend systems for websites  
 - 📊 Applying machine learning and deep learning to real-world problems  
 - 💡 Interested in automation, intelligent systems, and financial technologies  
-- 🤝 Open to collaboration in **backend development**,**Integration && Automation**, **AI**, and **fintech projects**  
+- 🤝 Open to collaboration in **Website Development**, **Integration && Automation**, **AI**, and **Fintech Projects**, **Business    Development**
 
 ---
 
