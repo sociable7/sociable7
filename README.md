@@ -10,7 +10,7 @@ During my research, I developed a **deep learning engine for analyzing financial
 
 ---
 
-## About Me  
+## 👩‍💻 About Me  
 I’m passionate about combining **backend web development** with **AI-driven solutions**.  
 - 🔧 Building efficient and secure backend systems for websites  
 - 📊 Applying machine learning and deep learning to real-world problems  
