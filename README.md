@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I’m Maryam Kiani 👋  
 
-<!--
-**sociable7/sociable7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Website Back End Developer | 🌍 Persian living in New Zealand  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Background  
+I hold a **Master’s degree in Software Engineering (Research)** with a focus on **Deep Learning**.  
+During my research, I developed a **deep learning engine for analyzing financial markets** — including **Forex and Stock Market prediction**.  
+
+
+## About Me  
+I’m passionate about combining **backend web development** with **AI-driven solutions**.  
+- 🔧 Building efficient and secure backend systems for websites  
+- 📊 Applying machine learning and deep learning to real-world problems  
+- 💡 Interested in automation, intelligent systems, and financial technologies  
+- 🤝 Open to collaboration in **backend development**,**Integration && Automation** **AI**, and **fintech projects**  
+
+
+## 🔗 Connect With Me  
+- 🌐 Our Company / Website (https://tensorpage.com)  
+- 💼 LinkedIn (https://www.linkedin.com/in/mary-kiani) 
+
+
+## 🛠️ Tech Stack  
+**Web Development**  
+- Python (Django, Flask)  
+- JavaScript (React)  
+- SQL & PostgreSQL  
+
+**Machine Learning / Deep Learning**  
+- TensorFlow & Keras  
+- PyTorch  
+- Scikit-learn  
+- Pandas & NumPy  
+
+**Other Skills**  
+- REST & GraphQL APIs  
+- Authentication & Web Security  
+- Docker & Deployment  
+- Git & CI/CD workflows  
+
+---
+
+## 📊 GitHub Insights  
+![Maryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sociable7&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sociable7&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌱 Beyond Code  
+- 📖 Exploring the intersection of **AI && web development**  
+- 🎶 Music is my coding companion  
+- 🏊‍♀️ Swimming & snorkeling enthusiast
+- ☕ Creator of my signature affogato
