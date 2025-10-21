@@ -1,6 +1,6 @@
 # Hi, I’m Maryam Kiani 👋  
 
-💻 Website Back End Developer | 🌍 Persian living in New Zealand  
+💻 Website Back End Developer & Wordpress architecture | 🌍 Persian living in New Zealand  
 
 ---
 
@@ -11,8 +11,8 @@ During my research, I developed a **deep learning engine for analyzing financial
 ---
 
 ## 👩‍💻 About Me  
-I’m passionate about combining **backend web development** with **AI-driven solutions**.  
-- 🔧 Building efficient and secure backend systems for websites  
+I’m passionate about combining **web development** with **AI-driven solutions**.  
+- 🔧 Building efficient and secure systems for websites  
 - 📊 Applying machine learning and deep learning to real-world problems  
 - 💡 Interested in automation, intelligent systems, and financial technologies  
 - 🤝 Open to collaboration in **Website Development**, **Integration && Automation**, **AI**, and **Fintech Projects**, **Business    Development**
@@ -27,7 +27,8 @@ I’m passionate about combining **backend web development** with **AI-driven so
 
 ## 🛠️ Tech Stack  
 **Web Development**  
-- Python (Django, Flask)  
+- Python (Django, Flask)
+- Wordpress (Engineering)
 - JavaScript (React)  
 - SQL & PostgreSQL  
 
@@ -41,7 +42,10 @@ I’m passionate about combining **backend web development** with **AI-driven so
 - REST & GraphQL APIs  
 - Authentication & Web Security  
 - Docker & Deployment  
-- Git & CI/CD workflows  
+- Git & CI/CD workflows
+- Bricks builder
+- Theme and plugin development
+  
 
 ---
 
