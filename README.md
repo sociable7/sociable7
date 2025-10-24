@@ -29,7 +29,7 @@ I’m passionate about combining **web development** with **AI-driven solutions*
 **Web Development**  
 - Python (Django, Flask)
 - Wordpress (Engineering)
-- JavaScript (React)  
+- PHP  
 - SQL & PostgreSQL  
 
 **Machine Learning / Deep Learning**  
