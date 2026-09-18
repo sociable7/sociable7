@@ -28,7 +28,8 @@ I’m passionate about combining **web development** with **AI-driven solutions*
 ## 🛠️ Tech Stack  
 **Web Development**  
 - Python (Django, Flask)
-- Wordpress (Engineering)
+- Django
+- API
 - PHP  
 - SQL & PostgreSQL  
 
