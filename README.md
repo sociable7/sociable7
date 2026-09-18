@@ -31,7 +31,12 @@ I’m passionate about combining **web development** with **AI-driven solutions*
 - Django
 - API
 - PHP  
-- SQL & PostgreSQL  
+- Database (SQL & PostgreSQL)
+- Docker
+- Git & Github
+- AI (Deep learning & Machine Learning)
+- GAN
+- AI agents
 
 **Machine Learning / Deep Learning**  
 - TensorFlow & Keras  
