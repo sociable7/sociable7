@@ -1,6 +1,6 @@
 # Hi, I’m Maryam Kiani 👋  
 
-💻 Website Back End Developer, although keen to get my first professional project as an AI Full Stack Developer | 🌍 Persian living in New Zealand  
+💻 Back End Developer, although keen to get my first professional project as an AI Full Stack Developer | 🌍 Persian living in New Zealand  
 
 ---
 
