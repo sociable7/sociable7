@@ -63,7 +63,7 @@ I’m passionate about combining **web development** with **AI-driven solutions*
 ---
 
 ## 🌱 Beyond Code  
-- 📖 Exploring the intersection of **AI && web development**  
+- 📖 Exploring the intersection of **AI && development**  
 - 🎶 Music is my coding companion  
 - 🏊‍♀️ Swimming & snorkeling enthusiast
 - ☕ Creator of my signature affogato
