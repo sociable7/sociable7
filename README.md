@@ -5,7 +5,7 @@
 ---
 
 ## 🎓 Background  
-I hold a **Master’s degree in Software Engineering** with a focus on **Machine Learning** & **Deep Learning**.  
+I hold a **Master’s degree in Software Engineering** with a focus on **Deep Learning**.  
 During my research, I developed a **deep learning engine for analyzing financial markets** — including **Forex and Stock Market prediction**.  
 
 ---
