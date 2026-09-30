@@ -4,9 +4,9 @@
 
 🤖 Exploring intelligent systems, automation & FinTech  
 
-<img src="./profile/lion-and-sun.jpg" width="20" height="14" alt="Lion and Sun Flag">  Persian
+<img src="./profile/lion-and-sun.jpg" width="20" height="14" alt="Lion and Sun Flag">  Persian, Shiraz
 
-🇳🇿 Based in New Zealand
+🇳🇿 Based in New Zealand, Auckland
 
 A little GitHub profile refresh, more to come.
 
