@@ -1,6 +1,8 @@
-# Hi, I’m Maryam Kiani 👋  
+# Hi, I'm Maryam Kiani 👩‍💻 
 
-💻 Full-Stack Developer, seeking my first professional opportunity in AI Full-Stack Development | 🌍 Persian, based in New Zealand 
+💻 Building software / web applications & AI-driven solutions  
+🤖 Exploring intelligent systems, automation & FinTech  
+🌍 Persian, based in New Zealand
 
 ---
 
