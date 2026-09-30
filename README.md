@@ -69,7 +69,9 @@ I’m passionate about building **software and web applications and AI-driven so
 
 ## 📊 GitHub Insights
 
-![GitHub Stats](./profile/stats.svg)
+![Maryam's GitHub Stats](./profile/stats.svg)
+
+![Top Languages](./profile/top-langs.svg)
 
 ---
 
