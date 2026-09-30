@@ -15,7 +15,7 @@ My research focused on developing a **deep learning engine for financial market 
 
 - ## 👩‍💻 About Me
 
-I’m passionate about building **software and web applications and AI-driven solutions** that solve real-world problems.
+I’m passionate about building **software, web applications and AI-driven solutions** that solve real-world problems.
 
 - 🔧 Developing efficient, secure, and scalable web applications
 - 🤖 Applying machine learning and deep learning to practical use cases
