@@ -4,7 +4,7 @@
 
 🤖 Exploring intelligent systems, automation & FinTech  
 
-<img src="./profile/lion-and-sun.jpg" width="20" height="14" alt="Lion and Sun Flag"> Persian
+<img src="./profile/lion-and-sun.jpg" width="20" height="14" alt="Lion and Sun Flag">  Persian
 
 🇳🇿 Based in New Zealand
 
