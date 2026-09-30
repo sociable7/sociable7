@@ -8,7 +8,7 @@
 
 <img src="./profile/lion-and-sun.jpg" width="20" height="14" alt="Lion and Sun Flag">  Persian, originally from Shiraz
 
-A little GitHub profile refresh, more to come.
+✨ A little GitHub profile refresh, more to come 
 
 ---
 
