@@ -4,6 +4,8 @@
 🤖 Exploring intelligent systems, automation & FinTech  
 🌍 Persian, based in New Zealand
 
+A little GitHub profile refresh, more to come. ✨
+
 ---
 
 ## 🎓 Background  
