@@ -1,57 +1,67 @@
 # Hi, I’m Maryam Kiani 👋  
 
-💻 Back End Developer, although keen to get my first professional project as an AI Full Stack Developer | 🌍 Persian living in New Zealand  
+💻 Full-Stack Developer, seeking my first professional opportunity in AI Full-Stack Development | 🌍 Persian, based in New Zealand 
 
 ---
 
 ## 🎓 Background  
-I hold a **Master’s degree in Software Engineering** with a focus on **Deep Learning**.  
-During my research, I developed a **deep learning engine for analyzing financial markets** — including **Forex and Stock Market prediction**.  
+I hold a **Master’s degree in Software Engineering** specialising in **Deep Learning**.  
+My research focused on developing a **deep learning engine for financial market analysis** — using LSTM, GRU, and CNN models for **Forex and Stock Market prediction**.  
 
 ---
 
-## 👩‍💻 About Me  
-I’m passionate about combining **web development** with **AI-driven solutions**.  
-- 🔧 Building efficient and secure systems for websites  
-- 📊 Applying machine learning and deep learning to real-world problems  
-- 💡 Interested in automation, intelligent systems, and financial technologies  
-- 🤝 Open to collaboration in **Website Development**, **Integration && Automation**, **AI**, and **Fintech Projects**, **Business    Development**
+- ## 👩‍💻 About Me
+
+I’m passionate about building **software and web applications and AI-driven solutions** that solve real-world problems.
+
+- 🔧 Developing efficient, secure, and scalable web applications
+- 🤖 Applying machine learning and deep learning to practical use cases
+- ⚙️ Exploring automation, intelligent systems, and AI-powered applications
+- 💳 Interested in financial technology (**FinTech**) and data-driven solutions
+- 🤝 Open to collaboration on **Software and Web Development**, **AI**, **Integrations & Automation**, **FinTech**, and **Business Development**
 
 ---
 
-## 🔗 Connect With Me  
-- 🌐 Our Company / Website (https://tensorpage.com)  
-- 💼 LinkedIn (https://www.linkedin.com/in/mary-kiani) 
+## 🔗 Connect With Me
+
+- 🌐 **TensorPage:** https://tensorpage.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/mary-kiani
 
 ---
 
-## 🛠️ Tech Stack  
-**Web Development**  
+## 🛠️ Tech Stack
+
+**Web Development**
 - Python (Django, Flask)
-- Django
-- API
-- PHP  
-- Database (SQL & PostgreSQL)
+- JavaScript (React, Node.js)
+- PHP
+- HTML & CSS
+- Tailwind CSS & Bootstrap
+- REST & GraphQL APIs
+- SQL & PostgreSQL
+- Authentication & Web Security
+- WordPress & Bricks Builder
+- Theme & Plugin Development
+
+**Machine Learning / Deep Learning**
+- TensorFlow & Keras
+- PyTorch
+- Scikit-learn
+- Pandas & NumPy
+- LSTM, GRU & CNN
+- GANs
+- Financial Market Prediction
+
+**AI & Intelligent Systems**
+- AI Agents
+- AI-driven Applications
+- Automation & Integrations
+
+**DevOps & Development Tools**
 - Docker
-- Git & Github
-- AI (Deep learning & Machine Learning)
-- GAN
-- AI agents
-
-**Machine Learning / Deep Learning**  
-- TensorFlow & Keras  
-- PyTorch  
-- Scikit-learn  
-- Pandas & NumPy  
-
-**Other Skills**  
-- REST & GraphQL APIs  
-- Authentication & Web Security  
-- Docker & Deployment  
-- Git & CI/CD workflows
-- Bricks builder
-- Theme and plugin development
-  
+- Git & GitHub
+- CI/CD Workflows
+- Deployment
 
 ---
 
@@ -62,8 +72,8 @@ I’m passionate about combining **web development** with **AI-driven solutions*
 
 ---
 
-## 🌱 Beyond Code  
-- 📖 Exploring the intersection of **AI && development**  
-- 🎶 Music is my coding companion  
-- 🏊‍♀️ Swimming & snorkeling enthusiast
-- ☕ Creator of my signature affogato
+## 🌱 Beyond Code
+- 📖 Exploring the intersection of **AI & software development**
+- 🎶 Music is my coding companion
+- 🏊‍♀️ Swimming & snorkeling keep me connected to the real world 🌊
+- ☕ Creating my own signature affogato
