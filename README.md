@@ -6,7 +6,7 @@
 
 <img src="./profile/lion-and-sun.jpg" width="20" height="14" alt="Lion and Sun Flag">  Persian, Shiraz
 
-🇳🇿 Based in New Zealand, Auckland
+🇳🇿 Based in Auckland, New Zealand
 
 A little GitHub profile refresh, more to come.
 
