@@ -67,10 +67,11 @@ I’m passionate about building **software and web applications and AI-driven so
 
 ---
 
-## 📊 GitHub Insights  
-![Maryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sociable7&show_icons=true&theme=tokyonight)  
+## 📊 GitHub Insights
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sociable7&layout=compact&theme=tokyonight)  
+![Maryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sociable7&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sociable7&layout=compact&theme=tokyonight) 
 
 ---
 
