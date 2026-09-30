@@ -2,8 +2,7 @@
 
 💻 Building software, web applications & AI-driven solutions  
 🤖 Exploring intelligent systems, automation & FinTech  
-Persian <img src="./profile/lion-and-sun.svg" width="32" alt="Lion and Sun flag">, based in New Zealand 🇳🇿
-
+Persian <img src="./profile/lion-and-sun.png" width="32" alt="Lion and Sun">, based in New Zealand 🇳🇿
 A little GitHub profile refresh, more to come. ✨
 
 ---
